@@ -1,0 +1,1 @@
+var json_Waterkiosk_10 = {"type":"FeatureCollection","name":"Waterkiosk_10","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Name":"Water kiosk chazhur centre","ward":"16","chainage_m":"2","road_name":"Chazhur kovilakam Pwd road"},"geometry":{"type":"Point","coordinates":[76.142312,10.431428]}}]}
